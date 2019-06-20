@@ -88,7 +88,7 @@ naming conventions:
 * Use only lowercase letters, numbers, dots (``.``) and underscores (``_``);
 * Prefix names with a namespace followed by a dot (e.g. ``order.``, ``user.*``);
 * End names with a verb that indicates what action has been taken (e.g.
-  ``order.placed``).
+  ``order.placed``, ``user.logged_in``).
 
 .. index::
    single: EventDispatcher; Event subclasses
